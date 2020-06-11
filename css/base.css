@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/*レウアウト*/
+
+.top_navi {
+  display: flex;
+  flex-wrap: wrap;
+}
